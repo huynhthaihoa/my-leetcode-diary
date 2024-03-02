@@ -3,9 +3,10 @@
 *Current version: Mar 02, 2024*
 
 <!-- ## Introduction -->
-
+## Introduction
 This repository provides my solutions to the [Leetcode problems](https://leetcode.com/problemset/all/). I will keep it updated according to my progress. 
 
+## Structure
 Leetcode contains a ton of problems, each problem requires a set of skills. Furthermore, these skills are categorized into 3 groups:
 - **[Fundamental Skills](https://github.com/huynhthaihoa/my-leetcode-diary/wiki/Fundamental-Skills)** consists of these skills: **Array**, **String**, **Sorting**, **Two Pointers**, **Simulation**, **Matrix**, **Stack**, **Linked List**.
 - **[Intermediate Skills](https://github.com/huynhthaihoa/my-leetcode-diary/wiki/Intermediate-Skills)** consists of these skills: **Hash Table**, **Math**, **Binary Search**, **Greedy**, **Bit Manipulation**, **Design**, **Tree**, **Depth-First Search**.
