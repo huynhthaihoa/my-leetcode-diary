@@ -16,7 +16,7 @@ Please click on any skill mentioned above to see its corresponding problem list,
 - **Number**: the problem number.
 - **Difficulty**: difficulty level, one of `Easy`, `Medium`, and `Hard`.
 - **Title**: the problem title and the corresponding Leetcode link.
-- **Solution**: my solution to the problem, might be implemented in C++, Python, or other languages. Admittedly, most of my solutions are implemented in C++.
+- **Solution**: my solution to the problem, might be implemented in C++, Python, or other languages. Admittedly, most of the solutions are implemented in C++.
 - **Status**: status of the solution, one of `AC`, `TLE (x/y)` and `MLE (x/y)`
    - If the status is `AC`, it does mean the solution passes every test case.
    - If the status is `TLE (x/y)`, it does mean the solution gets Time Limit Exceeded after passing `x` test cases over `y` test cases in total.
