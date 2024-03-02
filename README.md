@@ -14,10 +14,10 @@ Leetcode contains a ton of problems, each problem requires a set of skills. Furt
 
 For each skill listed above, the list of corresponding problems and their solution are being updated. Each problem contains this information:
 - **Number**: the problem number.
-- **Difficulty**: difficulty level, one of _Easy_, _Medium_, and _Hard_.
+- **Difficulty**: difficulty level, one of `Easy`, `Medium`, and `Hard`.
 - **Title**: the problem title and the corresponding Leetcode link.
 - **Solution**: my solution to the problem, might be implemented in C++, Python, or other languages. Admittedly, most of my solutions are implemented in C++.
-- **Status**: status of the solution, one of _AC_, _TLE (x/y)_ and _MLE (x/y)_
-   - If the status is _AC_, it does mean the solution passes every test case.
-   - If the status is _TLE (x/y)_, it does mean the solution gets Time Limit Exceeded after passing _x_ test cases over _y_ test cases in total.
-   - If the status is _MLE (x/y)_, it does mean the solution gets Memory Limit Exceeded after passing _x_ test cases over _y_ test cases in total.
+- **Status**: status of the solution, one of `AC`, `TLE (x/y)` and `MLE (x/y)`
+   - If the status is `AC`, it does mean the solution passes every test case.
+   - If the status is `TLE (x/y)`, it does mean the solution gets Time Limit Exceeded after passing `x` test cases over `y` test cases in total.
+   - If the status is `MLE (x/y)`, it does mean the solution gets Memory Limit Exceeded after passing `x` test cases over `y` test cases in total.
