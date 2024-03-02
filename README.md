@@ -1,6 +1,6 @@
 # My Leetcode Diary
 
-*Current version: 03/02/2024*
+*Current version: Mar 02, 2024*
 
 ## Introduction
 
