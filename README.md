@@ -1,6 +1,6 @@
-# My Leetcode Library
+# My Leetcode Diary
 
-*Current version: 04/30/2022 - 13:00PM (KST)*
+*Current version: 03/02/2024*
 
 ## Introduction
 
@@ -8,7 +8,4 @@ This is where I summarize my solutions for Leetcode problems (https://leetcode.c
 
 This repository will be updated according to my Leetcode progress.
 
-## Structure:
-The repository contains 2 folders:
-- AC: accepted solutions
-- TLE: Time-Limit-Exceeded solutions
+To begin the journey, please refer to [the repository wiki](https://github.com/huynhthaihoa/my-leetcode-diary/wiki)
