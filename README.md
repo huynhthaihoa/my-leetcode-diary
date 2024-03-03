@@ -1,8 +1,5 @@
 # My Leetcode Diary
 
-*Current version: Mar 02, 2024*
-
-<!-- ## Introduction -->
 ## Introduction
 This repository provides my solutions to the [Leetcode problems](https://leetcode.com/problemset/all/). I will keep it updated according to my progress. 
 
